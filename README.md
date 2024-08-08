@@ -1,4 +1,4 @@
-![logo](https://github.com/nikhillll17/nikhillll17/blob/main/Your%20paragraph%20text.gif)
+![logo](https://github.com/nikhillll17/nikhillll17/blob/main/Your%20paragraph%20text%20(1).gif)
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
