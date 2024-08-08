@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Development and UI**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nikhil-yadav-a5007a307](www.linkedin.com/in/nikhil-yadav-a5007a307)
+ [www.linkedin.com/in/nikhil-yadav-a5007a307](www.linkedin.com/in/nikhil-yadav-a5007a307)
 
 - 📫 How to reach me **nikhilchiku1707@gmail.com**
 
